@@ -1,6 +1,6 @@
-DATABASE_URL=jdbc:postgresql://ep-rough-shape-a5p2gt2d-pooler.us-east-2.aws.neon.tech/Shortify?user=neondb_owner&password=npg_j3gIwirC7vMG&sslmode=require
-DATABASE_USERNAME=neondb_owner
-DATABASE_PASSWORD=npg_j3gIwirC7vMG
+DATABASE_URL={}
+DATABASE_USERNAME={}
+DATABASE_PASSWORD={}
 DATABASE_DIALECT=org.hibernate.dialect.PostgreSQLDialect
 JWT_SECRET=6b703fae0bbb3facf5022df749dca711b9c25c0bf4f3068d0b01a47d4e75bd133b7e408e63bb46ff349639853fe9264a8ab1caa4f8da8c90970fecdcef645b81506b1aaf7edb081f418fd72254392f92d088a00eb81eb4f02d354b5069b685ea
 FRONTEND_URL=http://localhost:5174
