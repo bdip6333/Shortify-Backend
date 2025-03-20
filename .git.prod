@@ -3,4 +3,4 @@ DATABASE_USERNAME={}
 DATABASE_PASSWORD={}
 DATABASE_DIALECT=org.hibernate.dialect.PostgreSQLDialect
 JWT_SECRET=6b703fae0bbb3facf5022df749dca711b9c25c0bf4f3068d0b01a47d4e75bd133b7e408e63bb46ff349639853fe9264a8ab1caa4f8da8c90970fecdcef645b81506b1aaf7edb081f418fd72254392f92d088a00eb81eb4f02d354b5069b685ea
-FRONTEND_URL=http://localhost:5174
+FRONTEND_URL=https://shortify-kappa-six.vercel.app/
